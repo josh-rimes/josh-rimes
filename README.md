@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Josh</h1>
-<h3 align="center">A product-focused software engineer based in the UK</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=600&size=30&pause=1000&color=70A5FD&center=true&width=600&lines=Hi%2C+I'm+Josh%2C+welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+  <h3>I'm a product-focused software engineer based in the UK</h3>
+</div>
 
 <p align="center">
   ✈️ I work at a small tech/aviation company called ValStream Ltd as a Junior Software Engineer ✈️
